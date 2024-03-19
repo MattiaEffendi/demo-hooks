@@ -1,0 +1,15 @@
+{
+  "name": "demo-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ugly.js",
+  "scripts": {
+    "lint": "eslint --fix ugly.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
